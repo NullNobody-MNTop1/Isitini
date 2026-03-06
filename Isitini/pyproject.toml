@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "isitini"
+version = "0.1.0"
+description = "Check and convert your input or variable data type in seconds."
+readme = "README.md"
+requires-python = ">=3.7"
