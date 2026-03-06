@@ -26,3 +26,6 @@ Contains 6 main arguments:
   4. sendBool - returns True if the data type of the variable is correct and False if incorrect
   5. useMessage - if True, it will print a message from mes argument before prompting for input (ONLY WORKS IF sendBool IS FALSE)
   6. timer - delay(in seconds) between message and input prompt
+
+IMPORTANT:
+  THIS MODULE IS NOT LINUX FRIENDLY.
