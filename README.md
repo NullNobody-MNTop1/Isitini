@@ -18,7 +18,9 @@ You can use the following:
   2. Floatis()
   3. Boolis()
   4. Stris()
+
 All check or convert the variable.
+
 Contains 6 main arguments:
   1. num - the general input or variable to be checked/converted
   2. mes - message to be printed if data type is incorrect, sendBool is False and useMessage is True
